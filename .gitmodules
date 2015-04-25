@@ -1,0 +1,15 @@
+[submodule "civicrm-joomla-site"]
+	path = civicrm-joomla-site
+	url = git@github.com:JSProffitt/civicrm-joomla-site
+[submodule "site"]
+	path = site
+	url = git@github.com:JSProffitt/civicrm-joomla-site
+[submodule "plg_civicrm"]
+	path = plg_civicrm
+	url = git@github.com:JSProffitt/plg_civicrm
+[submodule "plg_civicrmsys"]
+	path = plg_civicrmsys
+	url = git@github.com:JSProffitt/plg_civicrmsys
+[submodule "plg_civicrmicon"]
+	path = plg_civicrmicon
+	url = git@github.com:JSProffitt/plg_civicrmicon
